@@ -8,6 +8,8 @@ nmp install puppeteer
 nmp install colorette
 npm install fs-extra
 
+сохраняем limex.js в корневой директории с установленным nodeJS
+
 открываем limex.js любым текстовым редактором
 проверяем executablePath — это путь до нашего хрома, можно комментировать строку, тогда будет использоваться хромиум.
 
