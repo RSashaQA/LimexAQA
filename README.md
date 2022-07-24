@@ -17,3 +17,5 @@ npm install fs-extra
 bode limex.js
 
 результаты тестирования (снимки экрана) будут сохранены в директории node\results\${today date}
+
+Саша какаша
